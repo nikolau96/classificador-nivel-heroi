@@ -28,3 +28,5 @@ if(xp > 9000 && xp <= 10000){
 if(xp > 10000){
     level = "Radiante";
 }
+
+console.log("O herói de nome " + nome + " está no nível " + level);
